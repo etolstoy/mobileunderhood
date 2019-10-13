@@ -16,6 +16,7 @@ export default authorId([
   { username: 'vacxe', start: '29 Jul 2019', first: '1155716795732332545' },
   { username: 'SlavaSlutsker', start: '22 Jul 2019', first: '1153214129945174016' },
   { username: 'iamironz', start: '15 Jul 2019', first: '1150672056809349120' },
+  { username: 'vixentael', start: '24 Jun 2019', first: '1142939344736575488' },
   // // TODO: Fill other hosts
   { username: 'AndreyMishanin', start: '04 Feb 2019', first: '1092162983973793792' },
   { username: 'xanderblinov', start: '28 Jan 2019', first: '1089799780228837376' },
