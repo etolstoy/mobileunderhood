@@ -4,7 +4,15 @@ import authorId from './helpers/author-id';
 export default authorId([
   // post: false - Doesn't display in list
   // update: true - Will run update author with update script
-  { username: 'mobileunderhood', start: '30 Sep 2019', first: '1178603545240784896', post: false, update: true },
+
+  { username: 'mobileunderhood', start: '13 Jan 2020', first: '1216564712911069185', post: false, update: true },
+  { username: 'Exey', start: '06 Jan 2020', first: '1213928954765217793', update: true },
+  { username: 'stepango', start: '30 Dec 2019', first: '1211516215476310017', update: true },
+  { username: 'mobileunderhood', start: '23 Dec 2019', first: '1208970656475484160', update: true },
+  { username: 'mkruglova', start: '16 Dec 2019', first: '1206464187100278784', update: true },
+  { username: 'katleta3000', start: '09 Dec 2019', first: '1203928822615289858', update: true },
+  { username: 'xotta6bl4_', start: '02 Dec 2019', first: '1201296973384572928', update: true },
+  { username: 'mobileunderhood', start: '30 Sep 2019', first: '1178603545240784896', update: true },
   { username: 'v1sarRU', start: '23 Sep 2019', first: '1176031426816483328' },
   { username: 'mobileunderhood', start: '16 Sep 2019', first: '1173535595093778433' },
   { username: 'mobileunderhood', start: '09 Sep 2019', first: '1170970188793073664' },
