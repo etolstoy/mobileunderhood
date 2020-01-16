@@ -1,0 +1,3024 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 13 03:36:44 +0000 2020",
+      "id": 1216564712911069200,
+      "id_str": "1216564712911069185",
+      "full_text": "Я всё ещё верю, что живу на шаре! Кроме этого меня зовут Клебанов Кирилл, последние годы пишу для iOS, участвую в разработке https://t.co/8nFdo1nsz1 и https://t.co/LQdmSOzzxa",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8nFdo1nsz1",
+            "expanded_url": "https://userx.pro",
+            "display_url": "userx.pro",
+            "indices": [
+              125,
+              148
+            ]
+          },
+          {
+            "url": "https://t.co/LQdmSOzzxa",
+            "expanded_url": "http://just.ru.com",
+            "display_url": "just.ru.com",
+            "indices": [
+              151,
+              174
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 79,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 06:03:14 +0000 2020",
+      "id": 1216601581069766700,
+      "id_str": "1216601581069766656",
+      "full_text": "Прошло уже 9 часов с момента моего дежурства, а количество подписчиков на мой основной аккаунт не изменилось.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 06:26:05 +0000 2020",
+      "id": 1216607328797151200,
+      "id_str": "1216607328797151232",
+      "full_text": "Тут мне подсказывают, что нет ссылки на мой свитер: @Headmast https://t.co/Kv1mijyn3G",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        61
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Headmast",
+            "name": "Kirill Klebanov",
+            "id": 211806377,
+            "id_str": "211806377",
+            "indices": [
+              52,
+              61
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Kv1mijyn3G",
+            "expanded_url": "https://twitter.com/dmfilipenko/status/1216602880980832256",
+            "display_url": "twitter.com/dmfilipenko/st…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1216602880980832300,
+      "quoted_status_id_str": "1216602880980832256",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Kv1mijyn3G",
+        "expanded": "https://twitter.com/dmfilipenko/status/1216602880980832256",
+        "display": "twitter.com/dmfilipenko/st…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jan 13 06:08:24 +0000 2020",
+        "id": 1216602880980832300,
+        "id_str": "1216602880980832256",
+        "full_text": "@mobileunderhood Ну хотя бы потому, что нет нигде ссылки на личный твиттер",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          74
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mobileunderhood",
+              "name": "Мобильный разработчик",
+              "id": 1056195982340358100,
+              "id_str": "1056195982340358150",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1216601581069766700,
+        "in_reply_to_status_id_str": "1216601581069766656",
+        "in_reply_to_user_id": 1056195982340358100,
+        "in_reply_to_user_id_str": "1056195982340358150",
+        "in_reply_to_screen_name": "mobileunderhood",
+        "user": {
+          "id": 389377323,
+          "id_str": "389377323"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 06:26:05 +0000 2020",
+      "id": 1216607330277654500,
+      "id_str": "1216607330277654528",
+      "full_text": "Когда я представлялся, то использовал своё настоящие имя и даже фамилию. Думал меня будет несложно найти.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        105
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1216607328797151200,
+      "in_reply_to_status_id_str": "1216607328797151232",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 06:26:06 +0000 2020",
+      "id": 1216607332035108900,
+      "id_str": "1216607332035108864",
+      "full_text": "Но я ошибся, если искать на кириллице Твиттер сходит с ума.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1216607330277654500,
+      "in_reply_to_status_id_str": "1216607330277654528",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 07:42:50 +0000 2020",
+      "id": 1216626645529956400,
+      "id_str": "1216626645529956352",
+      "full_text": "Представление автора. \nВ этом треде кратко расскажу о себе и поближе познакомлюсь с вами, дорогие читатели. Потом решим, как проводить эту неделю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 07:42:51 +0000 2020",
+      "id": 1216626647119646700,
+      "id_str": "1216626647119646722",
+      "full_text": "Этот понедельник для меня оказался достаточно тяжелым и насыщенным, твитить начну после обеда.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216626645529956400,
+      "in_reply_to_status_id_str": "1216626645529956352",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 15:37:48 +0000 2020",
+      "id": 1216746175602315300,
+      "id_str": "1216746175602315264",
+      "full_text": "Итак, обед прошёл и можно со спокойной душой браться за дело.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        61
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1216626647119646700,
+      "in_reply_to_status_id_str": "1216626647119646722",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 15:37:53 +0000 2020",
+      "id": 1216746196091490300,
+      "id_str": "1216746196091490306",
+      "full_text": "Большую часть моей жизни описывает эта фотография: https://t.co/ESYMuMZLFj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1216746179301646300,
+            "id_str": "1216746179301646339",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOLANBcWoAM8jmY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EOLANBcWoAM8jmY.jpg",
+            "url": "https://t.co/ESYMuMZLFj",
+            "display_url": "pic.twitter.com/ESYMuMZLFj",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1216746196091490306/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "orig": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1216746179301646300,
+            "id_str": "1216746179301646339",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOLANBcWoAM8jmY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EOLANBcWoAM8jmY.jpg",
+            "url": "https://t.co/ESYMuMZLFj",
+            "display_url": "pic.twitter.com/ESYMuMZLFj",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1216746196091490306/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "orig": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1216746175602315300,
+      "in_reply_to_status_id_str": "1216746175602315264",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 19:21:04 +0000 2020",
+      "id": 1216802361076867000,
+      "id_str": "1216802361076867073",
+      "full_text": "На самом деле эта была лёгкая метафора. Некоторые твиты будут рождаться после долгого и мучительного ожидания.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216746196091490300,
+      "in_reply_to_status_id_str": "1216746196091490306",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 19:32:14 +0000 2020",
+      "id": 1216805169264038000,
+      "id_str": "1216805169264037888",
+      "full_text": "Пока дело не зашло слишком далеко предупреждаю, на этой неделе:\nя не буду никого учить жизни;\nпостараюсь не писать откровенную дичь;\nплоско не шутить;\nне тратить своё и чужое лишнее время.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216802361076867000,
+      "in_reply_to_status_id_str": "1216802361076867073",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 19:35:35 +0000 2020",
+      "id": 1216806014961492000,
+      "id_str": "1216806014961491968",
+      "full_text": "@disablesilence Телефон - всё, винда - жива.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "disablesilence",
+            "name": "Vlad",
+            "id": 229847548,
+            "id_str": "229847548",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216641170027221000,
+      "in_reply_to_status_id_str": "1216641170027220994",
+      "in_reply_to_user_id": 229847548,
+      "in_reply_to_user_id_str": "229847548",
+      "in_reply_to_screen_name": "disablesilence",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 20:16:12 +0000 2020",
+      "id": 1216816236400730000,
+      "id_str": "1216816236400730114",
+      "full_text": "@ipivkin Про разработку: закрыл сегодня пару багов, но они совершенно не интересны широкой публике.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipivkin",
+            "name": "Vanya Pivkin",
+            "id": 155653202,
+            "id_str": "155653202",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216812148275536000,
+      "in_reply_to_status_id_str": "1216812148275535872",
+      "in_reply_to_user_id": 155653202,
+      "in_reply_to_user_id_str": "155653202",
+      "in_reply_to_screen_name": "ipivkin",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 20:24:28 +0000 2020",
+      "id": 1216818314430861300,
+      "id_str": "1216818314430861312",
+      "full_text": "Про то, чего не будет я сказал, теперь надо определиться с тем, что будет. Существует традиция @mobileunderhood, что каждый новый автор в понедельник представляет план по тредам на всё неделю. Это здорово, очень удобно, но у меня такого не будет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mobileunderhood",
+            "name": "Мобильный разработчик",
+            "id": 1056195982340358100,
+            "id_str": "1056195982340358150",
+            "indices": [
+              95,
+              111
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216805169264038000,
+      "in_reply_to_status_id_str": "1216805169264037888",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 20:38:20 +0000 2020",
+      "id": 1216821804444147700,
+      "id_str": "1216821804444147712",
+      "full_text": "Как ответственный человек, я начал готовиться вести этот аккаунт ещё в прошлом году.  Сначала просто морально, потом начал вспоминать свой прошлый опыт, затем подумал о текущих проблемах и сложностях в разработке, было несколько идей о будущем. И вдруг я случайно зашёл в твиттер.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216818314430861300,
+      "in_reply_to_status_id_str": "1216818314430861312",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 20:55:38 +0000 2020",
+      "id": 1216826159142523000,
+      "id_str": "1216826159142522880",
+      "full_text": "Живо представил, как один из держащих землю слонов испугался пробегавшей мимо мыши. Он пошатнулся и уронил со своей могучей спины шар земной. Ещё мгновение, снова неловкое движение и этот же слон сплющивает Землю в диск. Потом её вернули на место, но она так и осталась плоской.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216821804444147700,
+      "in_reply_to_status_id_str": "1216821804444147712",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:06:23 +0000 2020",
+      "id": 1216828865621962800,
+      "id_str": "1216828865621962754",
+      "full_text": "Эта сцена меня очень шокировала, вся моя подготовка показалась бессмысленной и отправилась в мусорный бак. Лишь спустя время я вспомнил, что слоны не боятся мышей, что с Землёй всё хорошо и её надёжно держат слоны.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216826159142523000,
+      "in_reply_to_status_id_str": "1216826159142522880",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:20:20 +0000 2020",
+      "id": 1216832373565935600,
+      "id_str": "1216832373565935622",
+      "full_text": "Поэтому вместо недельного плана я предлагаю сыграть в демократию. Правила будут просты. В каждом следующем твите я буду писать тему или просто слово о чём будут следующие треды. Если тебе, мой дорогой читатель, тема нравится, то просто ставишь лайк.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216828865621962800,
+      "in_reply_to_status_id_str": "1216828865621962754",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:20:20 +0000 2020",
+      "id": 1216832375587512300,
+      "id_str": "1216832375587512321",
+      "full_text": "Если очень нравится, то можешь что-нибудь ответить, указав, что конкретное ты хочешь услышать или обсудить. \nЕсли тема НЕ нравится, то нужно ретвинуть. Если очень НЕ нравиться, то ретвить с комментарием, мне будет очень интересно почитать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216832373565935600,
+      "in_reply_to_status_id_str": "1216832373565935622",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:20:21 +0000 2020",
+      "id": 1216832377412116500,
+      "id_str": "1216832377412116481",
+      "full_text": "По мере голосования я буду подсчитывать рейтинг по формуле = количество лайков - (5 * количество ретвитов)\nТемы с самым высоким рейтингом я постараюсь интересно осветить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216832375587512300,
+      "in_reply_to_status_id_str": "1216832375587512321",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:43:57 +0000 2020",
+      "id": 1216838319679688700,
+      "id_str": "1216838319679688705",
+      "full_text": "1. Продуктовая или аутсорс разработка. Я успел поработать в разных типах компаний, поэтому могу сравнить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        105
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216832377412116500,
+      "in_reply_to_status_id_str": "1216832377412116481",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 49,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:43:58 +0000 2020",
+      "id": 1216838321802039300,
+      "id_str": "1216838321802039300",
+      "full_text": "2. Образование: высшее, среднее специальное, школа?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        51
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838319679688700,
+      "in_reply_to_status_id_str": "1216838319679688705",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 34,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:43:58 +0000 2020",
+      "id": 1216838323777474600,
+      "id_str": "1216838323777474562",
+      "full_text": "3. Публичная жизнь обычного разработчика.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838321802039300,
+      "in_reply_to_status_id_str": "1216838321802039300",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:43:59 +0000 2020",
+      "id": 1216838325803397000,
+      "id_str": "1216838325803397125",
+      "full_text": "4. Кто-то говорил про политику, пусть будет и она.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838323777474600,
+      "in_reply_to_status_id_str": "1216838323777474562",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:43:59 +0000 2020",
+      "id": 1216838327854346200,
+      "id_str": "1216838327854346240",
+      "full_text": "5. iOS, Android, KaiOS, Sailfish, Windows Phone поговорим про разнообразие.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838325803397000,
+      "in_reply_to_status_id_str": "1216838325803397125",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 42,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:00 +0000 2020",
+      "id": 1216838329825665000,
+      "id_str": "1216838329825665031",
+      "full_text": "6. Про рабочее место программиста. Цена, качество, удобство.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838327854346200,
+      "in_reply_to_status_id_str": "1216838327854346240",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 75,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:00 +0000 2020",
+      "id": 1216838331784405000,
+      "id_str": "1216838331784404993",
+      "full_text": "7. Автотранспорт и интересные истории в дороге.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        47
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838329825665000,
+      "in_reply_to_status_id_str": "1216838329825665031",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:01 +0000 2020",
+      "id": 1216838333697011700,
+      "id_str": "1216838333697011713",
+      "full_text": "8. Стандартная тема про soft skills.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        36
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838331784405000,
+      "in_reply_to_status_id_str": "1216838331784404993",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:01 +0000 2020",
+      "id": 1216838337157312500,
+      "id_str": "1216838337157312512",
+      "full_text": "9. Про ЗП - меня эта тема волнует, но гарантий на интересный тред я не даю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838333697011700,
+      "in_reply_to_status_id_str": "1216838333697011713",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 57,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:02 +0000 2020",
+      "id": 1216838339149672400,
+      "id_str": "1216838339149672448",
+      "full_text": "10. Получили ЗП, надо её сохранить и заплатить налоги.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838337157312500,
+      "in_reply_to_status_id_str": "1216838337157312512",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:02 +0000 2020",
+      "id": 1216838341049581600,
+      "id_str": "1216838341049581568",
+      "full_text": "11. Альтернативный взгляд на эмиграцию.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838339149672400,
+      "in_reply_to_status_id_str": "1216838339149672448",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 65,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:03 +0000 2020",
+      "id": 1216838343138463700,
+      "id_str": "1216838343138463744",
+      "full_text": "12. Про урбанизм, урбанистов и велосипеды.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838341049581600,
+      "in_reply_to_status_id_str": "1216838341049581568",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 21:44:03 +0000 2020",
+      "id": 1216838345197858800,
+      "id_str": "1216838345197858816",
+      "full_text": "13. Про конференции, помогаю делать @MobiusConf, помогал делать @MBLTdev",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MobiusConf",
+            "name": "Mobius",
+            "id": 3027882327,
+            "id_str": "3027882327",
+            "indices": [
+              36,
+              47
+            ]
+          },
+          {
+            "screen_name": "MBLTdev",
+            "name": "#MBLTdev",
+            "id": 2679055118,
+            "id_str": "2679055118",
+            "indices": [
+              64,
+              72
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216838343138463700,
+      "in_reply_to_status_id_str": "1216838343138463744",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 03:43:15 +0000 2020",
+      "id": 1216928741038928000,
+      "id_str": "1216928741038927872",
+      "full_text": "Поздравляю всех со Старым Новым Годом! Как человек консервативных взглядов, я с уважением отношусь юлианскому календарю. Даже заготовил новогоднюю речь и поздравление, но увлёкся выборами и темами для голосования.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        213
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 03:43:16 +0000 2020",
+      "id": 1216928744495091700,
+      "id_str": "1216928744495091712",
+      "full_text": "Желаю всем здоровья и счастья, здорового счастья и счастливого здоровья. Год будем трудным, но мы потерпим и его переживём.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        123
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216928741038928000,
+      "in_reply_to_status_id_str": "1216928741038927872",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 03:43:17 +0000 2020",
+      "id": 1216928747028459500,
+      "id_str": "1216928747028459525",
+      "full_text": "Позанимаюсь немного домашними делами, придумаю ещё тем для голосования и к обеду обязательно вернусь.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216928744495091700,
+      "in_reply_to_status_id_str": "1216928744495091712",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 10:41:52 +0000 2020",
+      "id": 1217034089204781000,
+      "id_str": "1217034089204781056",
+      "full_text": "Удивительно, но против почти не голосуют. Напоминаю, что можно ретвитить и это сразу -5 к рейтингу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1216838345197858800,
+      "in_reply_to_status_id_str": "1216838345197858816",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 11:03:15 +0000 2020",
+      "id": 1217039470131892200,
+      "id_str": "1217039470131892226",
+      "full_text": "Несколько лидеров определилось, но число 13 не такое отличное. Накидаю ещё вариантов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217034089204781000,
+      "in_reply_to_status_id_str": "1217034089204781056",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 11:19:33 +0000 2020",
+      "id": 1217043570298884000,
+      "id_str": "1217043570298884096",
+      "full_text": "14. Про правильное и неправильное питание. Никакого биохакинга, только народные рецепты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217039470131892200,
+      "in_reply_to_status_id_str": "1217039470131892226",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 19:53:00 +0000 2020",
+      "id": 1217172786705240000,
+      "id_str": "1217172786705240064",
+      "full_text": "Жизнь наладится, не все мобильные разрабы одинаково полезны. https://t.co/o4eZl1JNQW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o4eZl1JNQW",
+            "expanded_url": "https://twitter.com/gorbekaterina/status/1216457910953353217",
+            "display_url": "twitter.com/gorbekaterina/…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1216457910953353200,
+      "quoted_status_id_str": "1216457910953353217",
+      "quoted_status_permalink": {
+        "url": "https://t.co/o4eZl1JNQW",
+        "expanded": "https://twitter.com/gorbekaterina/status/1216457910953353217",
+        "display": "twitter.com/gorbekaterina/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Jan 12 20:32:21 +0000 2020",
+        "id": 1216457910953353200,
+        "id_str": "1216457910953353217",
+        "full_text": "Неловкий момент, когда подписываешься на твиттер  мобильных разрабов @mobileunderhood, а получаешь поток сознания про биохакинг и плоскую землю. WTF?",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          149
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mobileunderhood",
+              "name": "Мобильный разработчик",
+              "id": 1056195982340358100,
+              "id_str": "1056195982340358150",
+              "indices": [
+                69,
+                85
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 961371074,
+          "id_str": "961371074"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 20:07:24 +0000 2020",
+      "id": 1217176408608342000,
+      "id_str": "1217176408608342021",
+      "full_text": "День тишины и день голосования практически закончился, завтра начнётся изливаться поток знания и сознания.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 20:07:24 +0000 2020",
+      "id": 1217176410076459000,
+      "id_str": "1217176410076459008",
+      "full_text": "Изливаться - громко сказано, я не любитель стократных тредов, но буду чуть активнее.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217176408608342000,
+      "in_reply_to_status_id_str": "1217176408608342021",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 20:40:24 +0000 2020",
+      "id": 1217184713938436000,
+      "id_str": "1217184713938436096",
+      "full_text": "Посмотрел статистику жизни в твиттере, с 2010 года запостил около 400 раз, примерно раз 3 раза в месяц. Сейчас ситуация меняется.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217176410076459000,
+      "in_reply_to_status_id_str": "1217176410076459008",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 14 20:53:46 +0000 2020",
+      "id": 1217188079116734500,
+      "id_str": "1217188079116734470",
+      "full_text": "Оставайся! Постараюсь не трогать лишний раз разработку, чтобы не спугнуть читателей. https://t.co/WOvKMRRp30",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WOvKMRRp30",
+            "expanded_url": "https://twitter.com/infoscav/status/1217173289648427009",
+            "display_url": "twitter.com/infoscav/statu…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1217173289648427000,
+      "quoted_status_id_str": "1217173289648427009",
+      "quoted_status_permalink": {
+        "url": "https://t.co/WOvKMRRp30",
+        "expanded": "https://twitter.com/infoscav/status/1217173289648427009",
+        "display": "twitter.com/infoscav/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Jan 14 19:55:00 +0000 2020",
+        "id": 1217173289648427000,
+        "id_str": "1217173289648427009",
+        "full_text": "@gorbekaterina @mobileunderhood Неловкий момент, когда подписываешься на юмористический акк про плоскую землю, а там через неделю про мобильную разработку начинают задвигать.",
+        "truncated": false,
+        "display_text_range": [
+          32,
+          174
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "gorbekaterina",
+              "name": "Kateryna Horb",
+              "id": 961371074,
+              "id_str": "961371074",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "mobileunderhood",
+              "name": "Мобильный разработчик",
+              "id": 1056195982340358100,
+              "id_str": "1056195982340358150",
+              "indices": [
+                15,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1216457910953353200,
+        "in_reply_to_status_id_str": "1216457910953353217",
+        "in_reply_to_user_id": 961371074,
+        "in_reply_to_user_id_str": "961371074",
+        "in_reply_to_screen_name": "gorbekaterina",
+        "user": {
+          "id": 19837945,
+          "id_str": "19837945"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 06:04:37 +0000 2020",
+      "id": 1217326702944247800,
+      "id_str": "1217326702944247813",
+      "full_text": "Голосование будет активным до субботы, добавятся новые темы, следите за обновлениями. https://t.co/cDl2Rrop6V",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cDl2Rrop6V",
+            "expanded_url": "https://twitter.com/igrekde/status/1217179764752113664",
+            "display_url": "twitter.com/igrekde/status…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1217179764752113700,
+      "quoted_status_id_str": "1217179764752113664",
+      "quoted_status_permalink": {
+        "url": "https://t.co/cDl2Rrop6V",
+        "expanded": "https://twitter.com/igrekde/status/1217179764752113664",
+        "display": "twitter.com/igrekde/status…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Jan 14 20:20:44 +0000 2020",
+        "id": 1217179764752113700,
+        "id_str": "1217179764752113664",
+        "full_text": "@katleta3000 @mobileunderhood @SensorTower да норм, к выходным там уже закончится годосование за темы и можно будет попрощаться",
+        "truncated": false,
+        "display_text_range": [
+          43,
+          127
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "katleta3000",
+              "name": "Rtishchev Evgenii",
+              "id": 175074821,
+              "id_str": "175074821",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "mobileunderhood",
+              "name": "Мобильный разработчик",
+              "id": 1056195982340358100,
+              "id_str": "1056195982340358150",
+              "indices": [
+                13,
+                29
+              ]
+            },
+            {
+              "screen_name": "SensorTower",
+              "name": "Sensor Tower",
+              "id": 851882208,
+              "id_str": "851882208",
+              "indices": [
+                30,
+                42
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 1217161271113670700,
+        "in_reply_to_status_id_str": "1217161271113670656",
+        "in_reply_to_user_id": 175074821,
+        "in_reply_to_user_id_str": "175074821",
+        "in_reply_to_screen_name": "katleta3000",
+        "user": {
+          "id": 181697598,
+          "id_str": "181697598"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 06:37:56 +0000 2020",
+      "id": 1217335088121335800,
+      "id_str": "1217335088121335809",
+      "full_text": "1. Продуктовая или аутсорс разработка. Тред объявляется открытым!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        65
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 06:37:59 +0000 2020",
+      "id": 1217335100016382000,
+      "id_str": "1217335100016381953",
+      "full_text": "Первым делом скрин-пруф с результатами голосования. Всё должно быть наглядно и прозрачно. У это варианта даже сердечко красное. https://t.co/QlTZCR6J7p",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1217335090776281000,
+            "id_str": "1217335090776281090",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOTX0LpWkAIQDSB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EOTX0LpWkAIQDSB.jpg",
+            "url": "https://t.co/QlTZCR6J7p",
+            "display_url": "pic.twitter.com/QlTZCR6J7p",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1217335100016381953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 468,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 826,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1176,
+                "h": 1708,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1217335090776281000,
+            "id_str": "1217335090776281090",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOTX0LpWkAIQDSB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EOTX0LpWkAIQDSB.jpg",
+            "url": "https://t.co/QlTZCR6J7p",
+            "display_url": "pic.twitter.com/QlTZCR6J7p",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1217335100016381953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 468,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 826,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1176,
+                "h": 1708,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217335088121335800,
+      "in_reply_to_status_id_str": "1217335088121335809",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 06:38:00 +0000 2020",
+      "id": 1217335102927265800,
+      "id_str": "1217335102927265792",
+      "full_text": "Тред могу читать не только мобильные разработчики, но и любые другие. Могут читать не только разработчики, но и любые другие сотрудники и рабочие. В основном речь будет идти про Россию, СНГ, но будут и общие моменты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217335100016382000,
+      "in_reply_to_status_id_str": "1217335100016381953",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 06:50:33 +0000 2020",
+      "id": 1217338260948734000,
+      "id_str": "1217338260948733952",
+      "full_text": "Для начала опрос читателей, где вы сейчас работаете?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217335102927265800,
+      "in_reply_to_status_id_str": "1217335102927265792",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 06:50:33 +0000 2020",
+      "id": 1217338262387417000,
+      "id_str": "1217338262387417088",
+      "full_text": "Хотел добавить вариант Аутстаффинг, но в опросе может быть только 4 варианта. Кому ближе всего именно он, лайкате твит.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217338260948734000,
+      "in_reply_to_status_id_str": "1217338260948733952",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 08:56:19 +0000 2020",
+      "id": 1217369914236899300,
+      "id_str": "1217369914236899329",
+      "full_text": "@west0r Верное замечание, но победителя я приберегу на выходные.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "west0r",
+            "name": "Алексей Кудрявцев",
+            "id": 170718209,
+            "id_str": "170718209",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217369142606680000,
+      "in_reply_to_status_id_str": "1217369142606680064",
+      "in_reply_to_user_id": 170718209,
+      "in_reply_to_user_id_str": "170718209",
+      "in_reply_to_screen_name": "west0r",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 10:49:38 +0000 2020",
+      "id": 1217398428025720800,
+      "id_str": "1217398428025720833",
+      "full_text": "Как я понял основная людей занимается продуктами, поэтому начну с аутсорсинга.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217338262387417000,
+      "in_reply_to_status_id_str": "1217338262387417088",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 11:25:35 +0000 2020",
+      "id": 1217407478381629400,
+      "id_str": "1217407478381629440",
+      "full_text": "Первым местом работы, как мобильного разработчика, оказалась именно аутсорсинговая компания. Для старта карьеры мне кажется идеальный вариант.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        142
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217398428025720800,
+      "in_reply_to_status_id_str": "1217398428025720833",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 11:36:04 +0000 2020",
+      "id": 1217410116598759400,
+      "id_str": "1217410116598759429",
+      "full_text": "Бесконечная вереница проектов позволит попробовать свои силы практически во всех уголках мобильной разработки. Это позволяет быстро набрать опыта и определить, что нравится больше всего.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217407478381629400,
+      "in_reply_to_status_id_str": "1217407478381629440",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 14:21:07 +0000 2020",
+      "id": 1217451649452707800,
+      "id_str": "1217451649452707840",
+      "full_text": "Сложно описать типичный проект. К примеру сроки могут варьироваться в широких примерах. Самый короткий проект занимал 2 недели, самый длинный более двух лет. Плюс для разработчика, что совсем не обязательно сидеть на одном проекте от рождения до его зрелости.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217410116598759400,
+      "in_reply_to_status_id_str": "1217410116598759429",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 15:07:48 +0000 2020",
+      "id": 1217463398092484600,
+      "id_str": "1217463398092484614",
+      "full_text": "Идеальная длительность проекта от 3-х месяцев по полугода. За это время можно плотно войти в предметную область, если мы говорим о бизнесе. Кроме того можно не только накодить, но и получить фидбек по той или иной технологии. Все подводные камни успеют себя проявить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217451649452707800,
+      "in_reply_to_status_id_str": "1217451649452707840",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 15:51:53 +0000 2020",
+      "id": 1217474492655702000,
+      "id_str": "1217474492655702016",
+      "full_text": "@MojoIvan Сложно выбрать вариант для голосования, правильный тебе подскажет сердце.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MojoIvan",
+            "name": "Black hole developer",
+            "id": 713037432883650600,
+            "id_str": "713037432883650560",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217461828407656400,
+      "in_reply_to_status_id_str": "1217461828407656448",
+      "in_reply_to_user_id": 713037432883650600,
+      "in_reply_to_user_id_str": "713037432883650560",
+      "in_reply_to_screen_name": "MojoIvan",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 16:10:06 +0000 2020",
+      "id": 1217479079936524300,
+      "id_str": "1217479079936524288",
+      "full_text": "Разнообразие проектов теперь помножим на разнообразие подходов и получим благодатное изобилие возможностей. При наличии корпоративной культура и единого стандарта вариантов становится меньше. Но это не мешает в новом проекте внутри команды договориться и затащить что-то этакое.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217463398092484600,
+      "in_reply_to_status_id_str": "1217463398092484614",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 16:38:14 +0000 2020",
+      "id": 1217486158181077000,
+      "id_str": "1217486158181076996",
+      "full_text": "Ещё один приятный бонус быстро сменить платформу разработки без потери в деньгах. Так я сначала освоил Windows Phone, переключился на Android и остановился на iOS. А у вас был ли удачный опыт смены направления.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217479079936524300,
+      "in_reply_to_status_id_str": "1217479079936524288",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 17:06:14 +0000 2020",
+      "id": 1217493205433954300,
+      "id_str": "1217493205433954305",
+      "full_text": "Теперь взглянем со стороны продукта. Меньше 6 месяцев проектов я не встречал, разве что это была проверка какой-либо гипотезы в неприоритетной области.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217486158181077000,
+      "in_reply_to_status_id_str": "1217486158181076996",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 19:21:40 +0000 2020",
+      "id": 1217527288021110800,
+      "id_str": "1217527288021110785",
+      "full_text": "И в этом кроются главные проблемы. Вступая в команду продукта, есть риск испачкаться легаси-кодом. Это не может сравниться с enterprise java или c++, наша отрасль значительно моложе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217493205433954300,
+      "in_reply_to_status_id_str": "1217493205433954305",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 15 19:38:31 +0000 2020",
+      "id": 1217531527787110400,
+      "id_str": "1217531527787110400",
+      "full_text": "Чтобы защититься от этого надо прийти в новый, только стартующий продукт. И тогда вы сами станете тем человеком, который первый затащит legacy.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217527288021110800,
+      "in_reply_to_status_id_str": "1217527288021110785",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 16 06:18:47 +0000 2020",
+      "id": 1217692657721454600,
+      "id_str": "1217692657721454592",
+      "full_text": "В продуктовой компании ваша жизнь сильнее зависит от жизни продукта. Чем меньше сама компания и количество продуктов, тем выше связь. Выбирая компанию, нужно смотреть на продукт, в идеале быть его потребителем.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1217531527787110400,
+      "in_reply_to_status_id_str": "1217531527787110400",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 16 06:41:30 +0000 2020",
+      "id": 1217698374008410000,
+      "id_str": "1217698374008410112",
+      "full_text": "Максимально эта связь проявляется в стартапах и pet-проектах. К сожалению успех зависит не только от идеи и качества кода. В каждом конкретном случае, есть что-то особенное.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217692657721454600,
+      "in_reply_to_status_id_str": "1217692657721454592",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 16 07:33:00 +0000 2020",
+      "id": 1217711334466445300,
+      "id_str": "1217711334466445312",
+      "full_text": "Я рекомендую не принимать участия в проектах-клонах. Когда есть желание написать свой Facebook или свой Uber. Клон возможно и получиться, но успеха не повторит.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1217698374008410000,
+      "in_reply_to_status_id_str": "1217698374008410112",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
